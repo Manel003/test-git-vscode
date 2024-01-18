@@ -4,7 +4,7 @@ num = 67
 #num = int(input("Enter a number: "))
 # define a flag variable
 #Manel-Lounissi
-
+#3eme année SD VCOD 
 flag = False
 if num == 1:
 print(num, "is not a prime number")
